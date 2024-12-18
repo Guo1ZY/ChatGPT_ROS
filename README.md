@@ -1,6 +1,9 @@
 <div align="center">
 
   # Chat-GPT with ROS  
+<p align="center">
+  <a href="https://github.com/Guo1ZY/ChatGPT_ROS"><img src="./picture/icons.png" width="125" height="125" alt="Guo1ZY logo"></a>
+</p>
   
  ![Static Badge](https://img.shields.io/badge/Author-Guo1ZY-blue)
   ![Static Badge](https://img.shields.io/badge/licence-CC0--10--license-dark%20blue)
