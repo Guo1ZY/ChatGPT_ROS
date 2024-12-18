@@ -5,7 +5,8 @@
   [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FGuo1ZY&query=count&color=a5a5a5&label=GitHub&labelColor=000000&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Guo1ZY)
 <p align="center">
   <a href="https://github.com/Guo1ZY/ChatGPT_ROS"><img src="https://img.shields.io/github/stars/Guo1ZY/ChatGPT_ROS" alt="Stars Badge"/></a>
-  <a href="https://github.com/Guo1ZY/ChatGPT_ROS"><img src="./picture/icons.png" width="125" height="125" alt="Guo1ZY logo"></a>
+  
+  <a href="https://github.com/Guo1ZY/ChatGPT_ROS"><img src="./picture/icons.png" width="150" height="150" alt="Guo1ZY logo"></a>
 </p>
   
  ![Static Badge](https://img.shields.io/badge/Author-Guo1ZY-blue)
