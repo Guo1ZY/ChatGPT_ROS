@@ -7,6 +7,20 @@
   ![Static Badge](https://img.shields.io/badge/Author-Guo1ZY-brightgreen?style=plastic&logo=Guo1ZY&logoColor=blue)
 
 </div>
+
+> [!NOTE]
+> 本项目当前API地址已更新为 `https://free.v36.cm` 请知晓！
+
+> [!IMPORTANT]
+> 使用者必须在遵循 OpenAI 的[使用条款](https://openai.com/policies/terms-of-use)以及**法律法规**的情况下使用，不得用于非法用途。
+> 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
+> 该项目API仅用于非商业性的学习、研究、科研测试等合法用途，不得用于任何违法违规用途以及商业用途，否则后果自负。
+
+> [!TIP]
+> 本项目仅供个人学习使用，不保证稳定性，且不提供任何技术支持。  
+> 已经发现上百个机器号自动领取KEY批量跑API的行为，严重影响了正常用户的使用。当前限制RPM为96，超过将被CC拦截。  
+> gpt-4o-mini和gpt-3.5模型本身并不贵，如需高并发API请求，请支持付费API哦！
+
 ## 项目介绍
 
 1. 完全免费使用以下勾选模型：
