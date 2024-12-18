@@ -1,0 +1,13 @@
+<launch>
+    <!-- Launch GPT processing node in a separate terminal using gnome-terminal -->
+    <node name="chatgpt_gpt_node" pkg="chatgpt_ros" type="gpt_node.py" output="screen">
+        <!-- <param name="launch_in_new_terminal" value="true"/>
+        <rosparam command="load" file="$(find chatgpt_ros)/config/gpt_node_config.yaml"/> -->
+    </node>
+
+    <!-- Launch GUI node in a separate terminal using gnome-terminal -->
+    <node name="chatgpt_gui_node" pkg="chatgpt_ros" type="gui_node.py" output="screen">
+        <!-- <param name="launch_in_new_terminal" value="true"/> -->
+        <!-- <rosparam command="load" file="$(find chatgpt_ros)/config/gui_node_config.yaml"/> -->
+    </node>
+</launch>
