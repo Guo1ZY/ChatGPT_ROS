@@ -3,10 +3,4 @@ logs/
 build/
 bin/
 lib/
-msg_gen/
-srv_gen/
-msg/*Action.msg
-ated/
-devel_isolated/
-CMakeLists.txt.user
 

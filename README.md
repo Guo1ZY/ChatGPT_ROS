@@ -4,14 +4,14 @@
 
   [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FGuo1ZY&query=count&color=a5a5a5&label=GitHub&labelColor=000000&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Guo1ZY)
 <p align="center">
-  
-  <a href="https://github.com/Guo1ZY/ChatGPT_ROS"><img src="./picture/icons.png" width="150" height="150" alt="Guo1ZY logo"></a>
+
+  <a href="https://github.com/Guo1ZY/ChatGPT_ROS"><img src="./picture/icons2.png" width="150" height="150" alt="Guo1ZY logo"></a>
 </p>
-  
+
  ![Static Badge](https://img.shields.io/badge/Author-Guo1ZY-blue)
   ![Static Badge](https://img.shields.io/badge/licence-CC0--10--license-dark%20blue)
   <a href="https://github.com/Guo1ZY/ChatGPT_ROS"><img src="https://img.shields.io/github/stars/Guo1ZY/ChatGPT_ROS" alt="Stars Badge"/></a>
-  
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6338F7&center=%E5%81%87&vCenter=%E5%81%87&multiline=true&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=ChatGPT+With+ROS)](https://git.io/typing-svg)  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A941&center=%E5%81%87&vCenter=%E5%81%87&multiline=true&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=C%2B%2B+and+python+are+supported)](https://git.io/typing-svg)
 
