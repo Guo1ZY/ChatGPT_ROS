@@ -1,7 +1,8 @@
 <div align="center">
 
   # Chat-GPT with ROS  
-[![GitHub]()](https://github.com/)
+
+  [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FGuo1ZY&query=count&color=a5a5a5&label=GitHub&labelColor=000000&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Guo1ZY)
 <p align="center">
   <a href="https://github.com/Guo1ZY/ChatGPT_ROS"><img src="./picture/icons.png" width="125" height="125" alt="Guo1ZY logo"></a>
 </p>
