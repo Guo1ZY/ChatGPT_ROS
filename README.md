@@ -2,7 +2,7 @@
 
   # Chat-GPT with ROS  
   
-  ![Static Badge](https://img.shields.io/badge/Author-Guo1ZY-brightgreen?style=plastic&logo=Guo1ZY&logoColor=blue)
+ ![Static Badge](https://img.shields.io/badge/Author-Guo1ZY-blue)
   ![Static Badge](https://img.shields.io/badge/licence-CC0--10--license-dark%20blue)
 
   
